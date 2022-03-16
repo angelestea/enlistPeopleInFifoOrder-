@@ -1,8 +1,3 @@
-/*Realizar un programa que me permita almacenar los datos (Nombres, cedula,
-pago_realizado, Tipo_pago) de las personas que ingresan a un supermercado, los
-almacene en una cola, muestre los clientes que ingresaron en el orden correcto (FIFO),
-atender a cada cliente ingresado a la cola.*/
-
 #include <iostream>
 #include <conio.h>
 #include <stdio.h>
@@ -60,7 +55,7 @@ int main (){
         cout << "\n\n\t 3. Salir " << endl;
         do{
             cout<<"\n\t\tIngrese una opcion [1-3]: ";
-            op=getche();//recibe inforamción directo del teclado
+            op=getche();//recibe inforamciÃ³n directo del teclado
         }while(op<'1'||op>'3');
         switch(op){
             case '1':
