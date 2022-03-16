@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1647181903 source:c:\users\pc\documents\itsco\matters\programación\1er semestre\unidad 3\trabajos en clase\07-03-2022\ejercicio_2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
+1647200938 source:c:\users\pc\documents\itsco\matters\programación\1er semestre\unidad 3\actividades 3\ejercicio_2\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
